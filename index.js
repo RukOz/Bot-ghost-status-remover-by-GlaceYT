@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Aun en desarrollo.","Paisa Paradise RP|Spanish|🌴","Jugando a: Liberty County","Atendiendo Tickets",];
 
 
 let currentIndex = 0;
