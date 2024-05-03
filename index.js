@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Jugando a: Liverty County","Atendiendo Tickets","Paisa Paradise RP| Spanish | 🌴","Escuchando Alcolirykoz"];
+const statusMessages = ["Jugando a: Liberty County","Atendiendo Tickets","Paisa Paradise RP| Spanish | 🌴","Escuchando Alcolirykoz"];
 
 
 let currentIndex = 0;
